@@ -1,0 +1,29 @@
+{
+  "history": [
+    {
+      "timestamp": "2026-10-12T09:57:32.455303+00:00",
+      "user": "hi",
+      "assistant": "I can't reach my language model right now \u2014 please set OPENAI_API_KEY in your environment or .env file."
+    },
+    {
+      "timestamp": "2026-10-12T09:57:57.726519+00:00",
+      "user": "how can i set it",
+      "assistant": "I can't reach my language model right now \u2014 please set OPENAI_API_KEY in your environment or .env file."
+    },
+    {
+      "timestamp": "2026-10-12T10:31:49.780973+00:00",
+      "user": "hi",
+      "assistant": "I can't reach my language model right now \u2014 please set OPENAI_API_KEY in your environment or .env file."
+    },
+    {
+      "timestamp": "2026-10-12T10:46:12.393430+00:00",
+      "user": "hi",
+      "assistant": "Sorry, I had trouble reaching the language model just now."
+    },
+    {
+      "timestamp": "2026-10-23T05:46:26.268129+00:00",
+      "user": "hi",
+      "assistant": "I can't reach my language model right now \u2014 please set OPENAI_API_KEY in your environment or .env file."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Core AI
+openai>=1.30.0
+
+# Speech input/output
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.14
+pyttsx3>=2.90
+
+# Skills
+pyautogui>=0.9.54
+wikipedia>=1.4.0
+requests>=2.31.0
+
+# Config
+python-dotenv>=1.0.0
